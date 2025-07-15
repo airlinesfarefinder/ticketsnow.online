@@ -62,11 +62,11 @@
                                 <ul class="clearfix">
                                     <li class="withicon">
 
-                                          <a href="tel:(866) 949-2818">
+                                          <a href="tel:(855) 469-1118">
                                             <span class="icon"
                                                 style="background-image:url('assets/img/24-hours.png'); width:20px;"></span>
-                                            <!-- <?php echo config('phone_number'); ?> -->
-                                             <a href="tel:(866) 949-2818">(866) 949-2818</a>
+                                   
+                                             <a href="tel:(855) 469-1118">(855) 469-1118</a>
                                         </a>
                                     </li>
                                     <li style="color:black;" id="nav_toggle" class="icononly" onclick="toggle_nav()">

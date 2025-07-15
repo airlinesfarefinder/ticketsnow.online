@@ -235,9 +235,9 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
 
 <div id="cruise_banner">
  
-    <a href="tel:(877) 694-3693"  style="text-decoration: none;" >
+    <a href="tel:(888) 497-2660"  style="text-decoration: none;" >
     <div class="head">Flight Reservation Helpline</div>
-    <div class="banner" style="background-image:url('images/images/smiling-customer-representative-stockcake.jpg'); "></div>
+    <div class="banner" style="background-image:url('images/images/pretty-smiling-woman-transperent-glasses.jpg'); "></div>
     <div class="featured_lines">
         <div class="line">Limited-Time Flight Deals | Last-Minute Getaways</div>
         <div class="line">Exciting Shore Adventures</div>
@@ -251,7 +251,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
                 <div class="text">
                     <h3>exclusive call-only flight deals</h3>
                  
-                     <a href="tel:(877) 694-3693"  style=" text-decoration: none;font-size:30px;font-weight:bolder; color:white "    >(877) 694-3693</a>
+                     <a href="tel:(888) 497-2660"  style=" text-decoration: none;font-size:30px;font-weight:bolder; color:white "    >(888) 497-2660</a>
                 </div>
             </button>
         </div>
@@ -270,7 +270,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
 
 
 
-<a href="tel:(877) 694-3693" style="text-decoration: none;"   >  
+<a href="tel:(888) 497-2660" style="text-decoration: none;"   >  
 <div id="call_now_btn" 
 
 style="
@@ -284,8 +284,8 @@ position: fixed; bottom: 0; left: 0; width: 100%;
         <div class="text">
             <h3>Sail with <span>upto 60%</span> Flight Deals !</h3>
           
-            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size: 30px;
-    font-weight: bolder; "    >(877) 694-3693 </a>
+            <a href="tel:(888) 497-2660"  style=" text-decoration: none; font-size: 30px;
+    font-weight: bolder; "    >(888) 497-2660 </a>
         </div>
     </button>
 

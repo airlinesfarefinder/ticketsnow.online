@@ -238,7 +238,8 @@
 
 <div id="cruise_banner">
 
-  <a href="tel:(866) 949-2818"></a>
+  <a href="tel:
+(855) 469-1118"></a>
   <div class="head">Flight Reservation Helpline</div>
   <div class="banner" style="background-image:url('images/carRental/images/Generic-Banner1.png'); "></div>
   <div class="featured_lines">
@@ -255,7 +256,9 @@
         <div class="icon animated_icon" style="background-image:url('./images/images/phone.gif')"></div>
         <div class="text">
           <h3>call now for unbeatable rental car rates</h3>
- <a href="tel:(866) 949-2818"  style=" text-decoration: none; font-size:30px; color:white; font-weight:bolder; "    >(866) 949-2818</a>
+ <a href="tel:
+(855) 469-1118"  style=" text-decoration: none; font-size:30px; color:white; font-weight:bolder; "    >
+(855) 469-1118</a>
          
         </div>
       </button>
@@ -273,7 +276,8 @@
 
 </div>
 
-<a href="tel:(866) 949-2818">
+<a href="tel:
+(855) 469-1118">
 <div id="call_now_btn"
 
   style="
@@ -286,8 +290,10 @@ position: fixed; bottom: 0; left: 0; width: 100%;
     <div class="text">
       <h3>Get Rolling with <span>Up to 60%</span> Off Rental Rates!</h3>
 
-       <a href="tel:(866) 949-2818"  style=" text-decoration: none;font-size: 30px;
-    font-weight: bolder;  "    >(866) 949-2818 </a>
+       <a href="tel:
+(855) 469-1118"  style=" text-decoration: none;font-size: 30px;
+    font-weight: bolder;  "    >
+(855) 469-1118 </a>
     </div>
   </button>
 </div>

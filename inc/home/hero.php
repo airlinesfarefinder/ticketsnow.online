@@ -76,7 +76,7 @@
    position: absolute;
    display: block;
     bottom: 10%;
-    right: 20%;
+    right: 8%;
     color: #000000;
     font-weight: bold;
     padding: 5px 10px;

@@ -62,11 +62,11 @@
                                 <ul class="clearfix">
                                     <li class="withicon">
 
-                                        <a href="tel:(888) 919-2090">
+                                        <a href="tel:(888) 519-5331">
                                             <span class="icon"
                                                 style="background-image:url('assets/img/24-hours.png'); width:20px;"></span>
-                                            <!-- <?php echo config('phone_number'); ?> -->
-                                            <a href="tel:(888) 919-2090"> (888) 919-2090</a>
+                                          
+                                            <a href="tel:(888) 519-5331"> (888) 519-5331</a>
 
                                         </a>
                                     </li>
