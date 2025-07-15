@@ -29,7 +29,7 @@
     display: block;
  
     background-repeat: no-repeat;
-    background-position: center;
+    background-position:top center;
     background-size: cover;
 
     width: 100%;
