@@ -70,7 +70,7 @@
                         <p>Hot right now
                             Discover some of our most in demand holiday destinations</p>
 
-                        <a href="tel:(877) 694-3693"> <button>Discover destinations</button></a>
+                        <a href="tel:(888) 497-2660"> <button>Discover destinations</button></a>
                     </div>
 
                     <div class="inspo_img"
@@ -91,7 +91,7 @@
                         <h3>Inspire me</h3>
                         <p>
                             Need of some inspiration? Take our quiz and find your perfect getaway!</p>
-                        <a href="tel:(877) 694-3693"> <button>Take quiz</button></a>
+                        <a href="tel:(888) 497-2660"> <button>Take quiz</button></a>
                     </div>
 
                     <div class="inspo_img"
@@ -118,7 +118,7 @@
                         </h3>
                         <p>Make the most of our flight network, book from your local airport today</p>
 
-                        <a href="tel:(877) 694-3693"> <button>What's new?</button></a>
+                        <a href="tel:(888) 497-2660"> <button>What's new?</button></a>
                     </div>
 
                     <div class="inspo_img"
@@ -140,7 +140,7 @@
                         <p>
                             Become a trendsetter! Check out our different holiday destinations</p>
 
-                        <a href="tel:(877) 694-3693"> <button>Uncover a hidden gem</button></a>
+                        <a href="tel:(888) 497-2660"> <button>Uncover a hidden gem</button></a>
                     </div>
 
                     <div class="inspo_img"

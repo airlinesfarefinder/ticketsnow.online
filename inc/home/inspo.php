@@ -68,7 +68,7 @@
                     <div class="inspo_info">
                         <h3>Hot Rides Right Now</h3>
                         <p>Explore our most popular car rental options—fast, flexible, and ready when you are.</p>
-                        <a href="tel:(877) 694-3693"><button>Browse Car Deals</button></a>
+                        <a href="tel:(888) 497-2660"><button>Browse Car Deals</button></a>
                     </div>
 
 
@@ -89,7 +89,7 @@
                     <div class="inspo_info">
                         <h3>Find Your Drive</h3>
                         <p>Not sure what to rent? Take our quick quiz and match with your perfect ride!</p>
-                        <a href="tel:(877) 694-3693"><button>Take the Quiz</button></a>
+                        <a href="tel:(888) 497-2660"><button>Take the Quiz</button></a>
                     </div>
 
 
@@ -114,7 +114,7 @@
                     <div class="inspo_info">
                         <h3>New Locations, More Choices</h3>
                         <p>We’ve expanded! Rent from newly added cities and neighborhoods near you.</p>
-                        <a href="tel:(877) 694-3693"><button>What’s New?</button></a>
+                        <a href="tel:(888) 497-2660"><button>What’s New?</button></a>
                     </div>
 
 
@@ -135,7 +135,7 @@
                     <div class="inspo_info">
                         <h3>Drive Off the Beaten Path</h3>
                         <p>Be a road trip trendsetter! Explore unique places with the perfect rental car.</p>
-                        <a href="tel:(877) 694-3693"><button>Uncover a hidden gem</button></a>
+                        <a href="tel:(888) 497-2660"><button>Uncover a hidden gem</button></a>
                     </div>
 
 

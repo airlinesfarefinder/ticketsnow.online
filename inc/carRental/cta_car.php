@@ -11,7 +11,7 @@
         <div class="head">
           <h3>Need Car Rentals ?</h3>
           <p>Call Us Now to Reserve Your Vehicle or Book Online with Ease.</p>
-          <a href="tel:(866) 949-2818"
+          <a href="tel:(855) 469-1118"
             ><button class="button">Call Now</button></a
           >
         </div>
