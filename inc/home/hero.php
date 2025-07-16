@@ -58,7 +58,7 @@
 
   .view{
           padding: 9px 5px;
-    background-color: rgb(209 62 60);
+    background-color: #520dd8;
     cursor: pointer;
     text-align: center;
     font-size: 20px;

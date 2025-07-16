@@ -25,7 +25,7 @@
         display: inline-block;
         width: 100%;
         padding: 8px;
-        background-color: red;
+        background-color: #520dd8;
         color: #ffffff;
         font-weight: 700;
         border: none;

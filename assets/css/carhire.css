@@ -80,7 +80,7 @@
   text-transform: capitalize;
   font-size: 12px;
   border-radius: 5px;
-  background: #00328a;
+  background:#520dd8;
   color: #fff;
 }
 #rides .item_wrapper .item .price_tag {
@@ -250,7 +250,7 @@
   padding: 12px 24px;
   border-radius: 7px;
   border: 2px solid #006ea1;
-  background: #003c5b;
+  background: #520dd8;
   color: #fff;
   text-transform: capitalize;
   letter-spacing: 0.5px;
