@@ -141,15 +141,12 @@
 
 
         .testimonial-section h2 {
-            font-size: 2.3rem;
-           
-        }
-      
+                font-size: 18px;
+            }
 
-        .testimonial-content p {
-            font-size: 14px;
-            
-        }
+            .testimonial-content p {
+                font-size: 14px;
+            }
 
         }
 

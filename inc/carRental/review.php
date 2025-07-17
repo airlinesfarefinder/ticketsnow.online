@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,18 +11,18 @@
             /* Import Bootstrap CSS scoped to this container */
             @import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css');
         }
-        
+
         /* Alternative Method 2: Manual scoping with CSS */
         .testimonial-component .carousel {
             position: relative;
         }
-        
+
         .testimonial-component .carousel-inner {
             position: relative;
             width: 100%;
             overflow: hidden;
         }
-        
+
         .testimonial-component .carousel-item {
             position: relative;
             display: none;
@@ -31,11 +32,11 @@
             backface-visibility: hidden;
             transition: transform 0.6s ease-in-out;
         }
-        
+
         .testimonial-component .carousel-item.active {
             display: block;
         }
-        
+
         .testimonial-component .carousel-indicators {
             position: absolute;
             right: 0;
@@ -49,9 +50,9 @@
             margin-bottom: 1rem;
             margin-left: 15%;
             list-style: none;
-            margin-inline:auto;
+            margin-inline: auto;
         }
-        
+
         .testimonial-component .carousel-indicators [data-bs-target] {
             box-sizing: content-box;
             flex: 0 1 auto;
@@ -70,12 +71,12 @@
             opacity: 0.5;
             transition: opacity 0.6s ease;
         }
-        
+
         .testimonial-component .carousel-indicators .active {
             opacity: 1;
             background-color: #fff;
         }
-        
+
         .testimonial-component .carousel-indicators button {
             background: none;
             border: none;
@@ -88,7 +89,7 @@
             padding: 3rem 1rem;
             text-align: center;
             padding: 15px;
-            color:#ffffff;
+            color: #ffffff;
         }
 
         .testimonial-section h2 {
@@ -105,7 +106,7 @@
         .testimonial-content p {
             font-size: 16px;
             line-height: 1.6;
-             color:#ffffff;
+            color: #ffffff;
         }
 
         .quote-icon {
@@ -122,12 +123,12 @@
         .testimonial-author {
             margin-top: 1.4rem;
             font-weight: bold;
-              color:blue;
+            color: blue;
         }
 
         .testimonial-date {
             font-size: 15px;
-         color:#ffffff;
+            color: #ffffff;
             margin-bottom: 5rem;
         }
 
@@ -135,8 +136,13 @@
             .testimonial-section {
                 padding: 2rem 1rem;
             }
+
+            .testimonial-section h2 {
+                font-size: 18px;
+            }
+
             .testimonial-content p {
-                font-size: 0.95rem;
+                font-size: 14px;
             }
         }
 
@@ -146,44 +152,45 @@
             background-color: #e9ecef;
             margin: 2rem 0;
         }
-        
+
         .other-content h3 {
             color: #495057;
             margin-bottom: 1rem;
         }
     </style>
 </head>
+
 <body>
- 
- 
+
+
 
     <!-- Your testimonial component with scoped Bootstrap -->
     <div class="testimonial-component">
         <section class="testimonial-section">
             <h2>Read What Our Customers have to say !</h2>
             <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
-              <div class="carousel-inner">
-    <div class="carousel-item active">
-        <div class="testimonial-content">
-            <div class="stars">★★★★★</div>
-            <p>
-               Renting a car with TicketSnowOnline was fast, easy, and completely stress-free. They offer a wide range of vehicles from top rental companies, so it was simple to find the perfect ride for my trip. Everything went smoothly from booking to pickup, and I’ll definitely use them again.
-            </p>
-            <div class="testimonial-author">Natalie M.</div>
-            <div class="testimonial-date">May 2025</div>
-        </div>
-    </div>
-    <div class="carousel-item">
-        <div class="testimonial-content">
-            <div class="stars">★★★★★</div>
-            <p>
-               TicketSnowOnline makes renting a car so simple and reliable. I found better rates than anywhere else, and the range of vehicles was exactly what I needed. Their customer service was responsive and kind, which made the whole process even better.
-            </p>
-            <div class="testimonial-author">Marcus D.</div>
-            <div class="testimonial-date">July 2025</div>
-        </div>
-    </div>
-</div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="testimonial-content">
+                            <div class="stars">★★★★★</div>
+                            <p>
+                                Renting a car with TicketSnowOnline was fast, easy, and completely stress-free. They offer a wide range of vehicles from top rental companies, so it was simple to find the perfect ride for my trip. Everything went smoothly from booking to pickup, and I’ll definitely use them again.
+                            </p>
+                            <div class="testimonial-author">Natalie M.</div>
+                            <div class="testimonial-date">May 2025</div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="testimonial-content">
+                            <div class="stars">★★★★★</div>
+                            <p>
+                                TicketSnowOnline makes renting a car so simple and reliable. I found better rates than anywhere else, and the range of vehicles was exactly what I needed. Their customer service was responsive and kind, which made the whole process even better.
+                            </p>
+                            <div class="testimonial-author">Marcus D.</div>
+                            <div class="testimonial-date">July 2025</div>
+                        </div>
+                    </div>
+                </div>
 
                 <!-- Carousel Indicators -->
                 <div class="carousel-indicators mt-4">
@@ -197,4 +204,5 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>

@@ -135,8 +135,12 @@
             .testimonial-section {
                 padding: 2rem 1rem;
             }
+             .testimonial-section h2 {
+                font-size: 18px;
+            }
+
             .testimonial-content p {
-                font-size: 0.95rem;
+                font-size: 14px;
             }
         }
 
