@@ -12,7 +12,7 @@ min-height:650px;
           <h6>Book your Car Rentals now</h6>
           <h3>
             For Care Hire, Call <br />
-            <a href="tel:(866) 949-2818">(866) 949-2818</a>
+            <a href="tel:(855) 469-1118">(855) 469-1118</a>
           </h3>
         </div>
       </div>
