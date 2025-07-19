@@ -174,7 +174,7 @@
                         <div class="testimonial-content">
                             <div class="stars">★★★★★</div>
                             <p>
-                                Renting a car with TicketSnowOnline was fast, easy, and completely stress-free. They offer a wide range of vehicles from top rental companies, so it was simple to find the perfect ride for my trip. Everything went smoothly from booking to pickup, and I’ll definitely use them again.
+                                Renting a car with TicketSnowOnline was fast, easy, and completely stress-free. They offer a wide range of vehicles from top rental companies, so it was simple to find the perfect ride for my trip. Everything went smoothly from booking to pickup.
                             </p>
                             <div class="testimonial-author">Natalie M.</div>
                             <div class="testimonial-date">May 2025</div>
