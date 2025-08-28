@@ -98,6 +98,6 @@
         </div>
         <br><br><br>
         <div class="row">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.063503246404!2d-71.0971856!3d42.36248589999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37754b552269b%3A0x883ff6d7e2dd18c5!2s52%20State%20St%20%23500%2C%20Boston%2C%20MA%2002109%2C%20USA!5e0!3m2!1sen!2sin!4v1749215729402!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.772938500429!2d77.0880241!3d28.486384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d193b1fca2d0f%3A0xbfc1afbcae60c5c8!2s20%2C%20P-3%2C%20Phase%202%2C%20DLF%20Phase%202%2C%20Sector%2025%2C%20Gurugram%2C%20Shahpur%2C%20Haryana%20122002!5e0!3m2!1sen!2sin!4v1756399270178!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div>
     </div>
 </div>
