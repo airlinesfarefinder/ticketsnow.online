@@ -8,12 +8,11 @@
                             <br><br><br>
                         </div>
                         <div class="col-sm-12">
-                            <div class="item"  >
+                            <div class="item">
                                 <span class="icon">
-                                    <img class="img_responsive" src="assets/img/pin.png"  alt=""
-                                    
-                                style="width:24px; height:24px; margin-top:20px;"
-                                    >
+                                    <img class="img_responsive" src="assets/img/pin.png" alt=""
+
+                                        style="width:24px; height:24px; margin-top:20px;">
                                 </span>
                                 <span class="title">visit us</span>
                                 <span class="excerpt">
@@ -24,13 +23,15 @@
                         <div class="col-sm-12">
                             <div class="item" id="contact_form">
                                 <span class="icon">
-                                    <img class="img_responsive"    style="width:24px; height:24px; margin-top:20px; "  src="assets/img/phone.png" alt="">
+                                    <img class="img_responsive" style="width:24px; height:24px; margin-top:20px; " src="assets/img/phone.png" alt="">
                                 </span>
                                 <span class="title">reach us</span>
                                 <span class="excerpt">
                                     <?php echo config('phone_number'); ?>
                                     <br>
                                     <?php echo config('email_id'); ?>
+                                    <br>
+                                    ticketsnowonline@gmail.com
                                 </span>
                             </div>
                         </div>
@@ -98,6 +99,7 @@
         </div>
         <br><br><br>
         <div class="row">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.772938500429!2d77.0880241!3d28.486384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d193b1fca2d0f%3A0xbfc1afbcae60c5c8!2s20%2C%20P-3%2C%20Phase%202%2C%20DLF%20Phase%202%2C%20Sector%2025%2C%20Gurugram%2C%20Shahpur%2C%20Haryana%20122002!5e0!3m2!1sen!2sin!4v1756399270178!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.772938500429!2d77.0880241!3d28.486384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d193b1fca2d0f%3A0xbfc1afbcae60c5c8!2s20%2C%20P-3%2C%20Phase%202%2C%20DLF%20Phase%202%2C%20Sector%2025%2C%20Gurugram%2C%20Shahpur%2C%20Haryana%20122002!5e0!3m2!1sen!2sin!4v1756399270178!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
     </div>
 </div>

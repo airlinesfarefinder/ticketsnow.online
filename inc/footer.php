@@ -53,3 +53,12 @@
         </div>
     </div>
 </div>
+
+<div class="footer-bottom">
+            <div class="footer-container">
+                <p class="copyright">
+                    © 2025 ticketsnow.online. This is an official website of Nitin Gupta- Adsglobal Solutions
+                </p>
+            </div>
+        </div>
+    </footer>
