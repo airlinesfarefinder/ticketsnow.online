@@ -1,21 +1,16 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body> -->
+
  
    
     <style>
  
  
 #cruise_banner {
+  
   position: fixed; /* change from relative to fixed */
   bottom: 60px;    /* upar thoda space de rahe hain call_now_btn ke liye */
   left: 0;
   width: 100%;
+  
   padding-bottom: 30px;
   z-index: 9999;   /* make sure it stays on top */
   background: #fff; /* optional: white background so text is clear */
@@ -321,5 +316,3 @@ position: fixed; bottom: 0; left: 0; width: 100%;
 </script>
  
    
-<!-- </body>
-</html> -->
