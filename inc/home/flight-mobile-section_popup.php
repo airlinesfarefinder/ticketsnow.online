@@ -6,10 +6,10 @@
  
 #cruise_banner {
   
-  position: fixed; /* change from relative to fixed */
-  bottom: 60px;    /* upar thoda space de rahe hain call_now_btn ke liye */
+  position: fixed; /* change from relative to fixed */  
   left: 0;
   width: 100%;
+  padding-bottom: 30px;
   z-index: 9999;   /* make sure it stays on top */
   background: #fff; /* optional: white background so text is clear */
 }
