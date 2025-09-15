@@ -289,16 +289,6 @@ position: fixed; bottom: 0; left: 0; width: 100%;
  
  
  
-<div>
-    <p class="outrow">Speak with Our Flight Specialists to Save Up to 60% on Destinations Like Alaska, the Caribbean, Europe & More!</p>
-    <ul class="pills">
-        <li>All-Inclusive Vacation Packages</li>
-        <li>Gourmet Dining & Onboard Shows</li>
-        <li>Land Excursions & Guided Tours</li>
-        <li>Round-the-Clock Assistance</li>
-        <li>Flexible Payment Methods</li>
-    </ul>
-</div>
  
 <script>
     document.addEventListener("DOMContentLoaded", function() {
