@@ -239,7 +239,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
  
 <div id="cruise_banner">
  
-    <a href="tel:+1-888-556-2276"></a>
+    <a href="tel:+1-888-497-2660"></a>
     <div class="head">Flight Reservation Helpline</div>
     <div class="banner" style="background-image:url('images/flight/support-banner.png'); "></div>
     <div class="featured_lines">
@@ -254,7 +254,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
                 <div class="icon animated_icon" style="background-image:url('./images/images/phone.gif')"></div>
                 <div class="text">
                     <h3>exclusive call-only flight deals</h3>
-                    <p>+1-888-556-2276</p>
+                    <p>+1-888-497-2660</p>
                 </div>
             </button>
         </div>
@@ -280,7 +280,7 @@ position: fixed; bottom: 0; left: 0; width: 100%;
         <div class="icon animated_icon" style="background-image:url('./images/images/call-ezgif.com-resize.gif');background-size:120%"></div>
         <div class="text">
             <h3>Sail with <span>upto 60%</span> Flight Deals !</h3>
-            <p>+1-888-556-2276</p>
+            <p>+1-888-497-2660</p>
         </div>
     </button>
 </div>
