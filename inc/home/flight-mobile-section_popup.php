@@ -269,6 +269,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
     </ul> -->
 </div>
  
+<a href="tel:+1-888-497-2660">
 <div id="call_now_btn"
  
 style="
@@ -279,11 +280,12 @@ position: fixed; bottom: 0; left: 0; width: 100%;
     <button class="call_button"  >
         <div class="icon animated_icon" style="background-image:url('./images/images/call-ezgif.com-resize.gif');background-size:120%"></div>
         <div class="text">
-            <h3>Sail with <span>upto 60%</span> Flight Deals !</h3>
+            <h3>Save <span>upto 60%</span> Flight Deals !</h3>
             <p>+1-888-497-2660</p>
         </div>
     </button>
 </div>
+</a>
  
  
  
